@@ -11,7 +11,7 @@ public class HasMapDemo {
 
 		id.put(1, "nabing");
 		id.put(2, "Hira");
-		id.put(8, "kirye");
+		id.put(8, "Kiren");
 		id.put(3, "Madhab");
 		id.put(4, "Keahab");
 		

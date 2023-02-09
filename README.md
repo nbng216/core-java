@@ -1,2 +1,2 @@
-# Javascript
-Learning modern Javascript following udemy.
+# Core Java
+Learning modern Java following udemy.

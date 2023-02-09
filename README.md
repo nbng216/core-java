@@ -1,2 +1,2 @@
-# core-java
-THis is core Java tutorial.
+# Javascript
+Learning modern Javascript following udemy.
